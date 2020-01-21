@@ -18,7 +18,6 @@ http://mrbird.cc/Kubernetes-Pod-Basic.html
 http://mrbird.cc/Kubernetes-Basic.html
 http://mrbird.cc/Kubernetes1-16-2-install-Dashboard.html
 http://mrbird.cc/Kubeadm-install-Kubernetes1-16-2-cluster.html
-http://mrbird.cc/Java-Design-Pattern.html
 http://mrbird.cc/JDK7-Fork-Join.html
 http://mrbird.cc/Java-Thread-Pool.html
 http://mrbird.cc/Java-Concurrency-Lock.html
@@ -298,3 +297,4 @@ http://mrbird.cc/Java-Concurrent-Basis.html
 http://mrbird.cc/Oracle-经典试题集.html
 http://mrbird.cc/Oracle-basis.html
 http://mrbird.cc/Servlet-Jsp-note.html
+http://mrbird.cc/Java-OOP2.html
