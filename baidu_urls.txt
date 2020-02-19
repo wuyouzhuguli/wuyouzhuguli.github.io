@@ -22,6 +22,7 @@ http://mrbird.cc/JDK7-Fork-Join.html
 http://mrbird.cc/Java-Thread-Pool.html
 http://mrbird.cc/Java-Concurrency-Lock.html
 http://mrbird.cc/ThreadLocal.html
+http://mrbird.cc/CAS.html
 http://mrbird.cc/JUC-Semaphore.html
 http://mrbird.cc/volatile.html
 http://mrbird.cc/JUC-Exchanger.html
@@ -29,6 +30,7 @@ http://mrbird.cc/JUC-CyclicBarrier.html
 http://mrbird.cc/JUC-CountDownLatch.html
 http://mrbird.cc/Java-Memory-model.html
 http://mrbird.cc/Guava-Miscellaneous-notes.html
+http://mrbird.cc/NIO2接口方法.html
 http://mrbird.cc/Guava-RateLimiter.html
 http://mrbird.cc/Guava-Cache.html
 http://mrbird.cc/Guava-Collection.html
@@ -296,5 +298,3 @@ http://mrbird.cc/使用Ajax向服务端传送form表单数据.html
 http://mrbird.cc/Java-Concurrent-Basis.html
 http://mrbird.cc/Oracle-经典试题集.html
 http://mrbird.cc/Oracle-basis.html
-http://mrbird.cc/Servlet-Jsp-note.html
-http://mrbird.cc/Java-OOP2.html
