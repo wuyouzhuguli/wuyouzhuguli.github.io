@@ -20,6 +20,7 @@ http://mrbird.cc/Kubernetes1-16-2-install-Dashboard.html
 http://mrbird.cc/Kubeadm-install-Kubernetes1-16-2-cluster.html
 http://mrbird.cc/JDK7-Fork-Join.html
 http://mrbird.cc/Java-Thread-Pool.html
+http://mrbird.cc/集合线程安全问题.html
 http://mrbird.cc/Java-Concurrency-Lock.html
 http://mrbird.cc/ThreadLocal.html
 http://mrbird.cc/CAS.html
@@ -297,4 +298,3 @@ http://mrbird.cc/Atom编辑器添加酷炫动画.html
 http://mrbird.cc/使用Ajax向服务端传送form表单数据.html
 http://mrbird.cc/Java-Concurrent-Basis.html
 http://mrbird.cc/Oracle-经典试题集.html
-http://mrbird.cc/Oracle-basis.html
