@@ -1,4 +1,11 @@
 http://mrbird.cc/book.html
+http://mrbird.cc/Spring-Batch作业调度.html
+http://mrbird.cc/Spring-Batch异常处理.html
+http://mrbird.cc/Spring-Batch监听器.html
+http://mrbird.cc/Spring-Batch处理数据.html
+http://mrbird.cc/Spring-Batch输出数据.html
+http://mrbird.cc/Spring-Batch读取数据.html
+http://mrbird.cc/Spring-Batch入门.html
 http://mrbird.cc/IDEA-Docker-Plugin.html
 http://mrbird.cc/Kubernetes-Service-Discovery-Summary.html
 http://mrbird.cc/Kubernetes-Ingress.html
@@ -291,10 +298,3 @@ http://mrbird.cc/Java读取和修改ini文件.html
 http://mrbird.cc/Java-math-BigDecimal类常用方法.html
 http://mrbird.cc/EasyUI等待加载动画-转.html
 http://mrbird.cc/仿Windows界面的JFileChooser.html
-http://mrbird.cc/onClick事件和onDblClick-事件并存的解决方法-转.html
-http://mrbird.cc/Apache-POI导出Excel文件.html
-http://mrbird.cc/上传下载demo.html
-http://mrbird.cc/Oracle树查询.html
-http://mrbird.cc/使用JFinal快速搭建-Java-web项目.html
-http://mrbird.cc/Atom编辑器添加酷炫动画.html
-http://mrbird.cc/使用Ajax向服务端传送form表单数据.html
