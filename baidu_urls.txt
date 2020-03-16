@@ -1,4 +1,5 @@
 http://mrbird.cc/book.html
+http://mrbird.cc/Spring-Boot整合WebSocket.html
 http://mrbird.cc/Spring-Cloud-Alibaba-Nacos配置中心.html
 http://mrbird.cc/Spring-Cloud-Alibaba-Nacos注册中心.html
 http://mrbird.cc/Spring-Batch异常处理.html
@@ -8,7 +9,6 @@ http://mrbird.cc/Spring-Batch处理数据.html
 http://mrbird.cc/Spring-Batch输出数据.html
 http://mrbird.cc/Spring-Batch读取数据.html
 http://mrbird.cc/Spring-Batch入门.html
-http://mrbird.cc/Spring-Boot整合SocketJS.html
 http://mrbird.cc/自定义Spring-Boot-Starter.html
 http://mrbird.cc/IDEA-Docker-Plugin.html
 http://mrbird.cc/Kubernetes-Service-Discovery-Summary.html
