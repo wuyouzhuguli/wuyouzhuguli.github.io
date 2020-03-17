@@ -10,6 +10,7 @@ http://mrbird.cc/Spring-Batch输出数据.html
 http://mrbird.cc/Spring-Batch读取数据.html
 http://mrbird.cc/Spring-Batch入门.html
 http://mrbird.cc/自定义Spring-Boot-Starter.html
+http://mrbird.cc/FEBS-Cloud常见问题汇总.html
 http://mrbird.cc/IDEA-Docker-Plugin.html
 http://mrbird.cc/Kubernetes-Service-Discovery-Summary.html
 http://mrbird.cc/Kubernetes-Ingress.html
@@ -297,4 +298,3 @@ http://mrbird.cc/Oracle-SQL常用函数.html
 http://mrbird.cc/Java-Encryption-Decryption.html
 http://mrbird.cc/Oracle数据库与实例.html
 http://mrbird.cc/JavaScript时间格式化.html
-http://mrbird.cc/dom4j解析和生成xml文件.html
