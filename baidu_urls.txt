@@ -1,4 +1,6 @@
 http://mrbird.cc/book.html
+http://mrbird.cc/Spring-Cloud-Alibaba-Sentinel-SentinelResource.html
+http://mrbird.cc/Sentinel控制台详解.html
 http://mrbird.cc/Spring-Cloud-Alibaba-Nacos配置中心.html
 http://mrbird.cc/Spring-Cloud-Alibaba-Nacos注册中心.html
 http://mrbird.cc/Spring-Batch异常处理.html
@@ -296,5 +298,3 @@ http://mrbird.cc/解決jQuery和其他库的冲突.html
 http://mrbird.cc/Java-反射机制.html
 http://mrbird.cc/Oracle-SQL常用函数.html
 http://mrbird.cc/Java-Encryption-Decryption.html
-http://mrbird.cc/Oracle数据库与实例.html
-http://mrbird.cc/JavaScript时间格式化.html
