@@ -1,4 +1,9 @@
 http://mrbird.cc/book.html
+http://mrbird.cc/Kafka-API使用.html
+http://mrbird.cc/Kafka消费者.html
+http://mrbird.cc/Kafka生产者.html
+http://mrbird.cc/Kafka存储机制.html
+http://mrbird.cc/Kafka入门.html
 http://mrbird.cc/Spring-Cloud-Alibaba-Sentinel-SentinelResource.html
 http://mrbird.cc/Sentinel控制台详解.html
 http://mrbird.cc/Spring-Cloud-Alibaba-Nacos配置中心.html
@@ -293,8 +298,3 @@ http://mrbird.cc/SpEL表达式.html
 http://mrbird.cc/Spring-Bean生命周期.html
 http://mrbird.cc/Spring-Setter方法注入.html
 http://mrbird.cc/Spring-构造器注入.html
-http://mrbird.cc/jQuery选择器总结.html
-http://mrbird.cc/解決jQuery和其他库的冲突.html
-http://mrbird.cc/Java-反射机制.html
-http://mrbird.cc/Oracle-SQL常用函数.html
-http://mrbird.cc/Java-Encryption-Decryption.html
