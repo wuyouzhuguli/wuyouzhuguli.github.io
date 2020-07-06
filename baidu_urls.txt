@@ -38,7 +38,9 @@ http://mrbird.cc/Kubernetes-Pod-Basic.html
 http://mrbird.cc/Kubernetes-Basic.html
 http://mrbird.cc/Kubernetes1-16-2-install-Dashboard.html
 http://mrbird.cc/Kubeadm-install-Kubernetes1-16-2-cluster.html
+http://mrbird.cc/Java对象实例化过程.html
 http://mrbird.cc/Java方法调用细节.html
+http://mrbird.cc/JVM-Learn.html
 http://mrbird.cc/Java-BlockingQueue.html
 http://mrbird.cc/JDK7-Fork-Join.html
 http://mrbird.cc/Java-Thread-Pool.html
@@ -296,5 +298,3 @@ http://mrbird.cc/AOP术语.html
 http://mrbird.cc/Spring-自动检测Bean.html
 http://mrbird.cc/Spring-自动装配Bean.html
 http://mrbird.cc/SpEL表达式.html
-http://mrbird.cc/Spring-Bean生命周期.html
-http://mrbird.cc/Spring-Setter方法注入.html
