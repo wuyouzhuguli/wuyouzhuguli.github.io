@@ -1,4 +1,9 @@
 http://mrbird.cc/book.html
+http://mrbird.cc/Java-数字签名算法.html
+http://mrbird.cc/Java-非对称加密算法.html
+http://mrbird.cc/Java-对称加密算法.html
+http://mrbird.cc/Java-摘要算法.html
+http://mrbird.cc/Java-Base64算法.html
 http://mrbird.cc/Java设计模式.html
 http://mrbird.cc/Kafka-API使用.html
 http://mrbird.cc/Kafka消费者.html
@@ -293,8 +298,3 @@ http://mrbird.cc/各进制数的转换.html
 http://mrbird.cc/Spring-SimpleJdbcTemplate.html
 http://mrbird.cc/jQuery-事件函数.html
 http://mrbird.cc/jQuery-文档处理.html
-http://mrbird.cc/使用注解配置AOP切面.html
-http://mrbird.cc/在Spring-XML中声明切面.html
-http://mrbird.cc/AOP术语.html
-http://mrbird.cc/Spring-自动检测Bean.html
-http://mrbird.cc/Spring-自动装配Bean.html
