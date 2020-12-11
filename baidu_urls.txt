@@ -1,4 +1,7 @@
 http://mrbird.cc/book.html
+http://mrbird.cc/深入理解Spring-AOP原理.html
+http://mrbird.cc/深入理解Spring-BeanPostProcessor-InstantiationAwareBeanPostProcessor.html
+http://mrbird.cc/Spring自带工具类使用学习.html
 http://mrbird.cc/Java-数字签名算法.html
 http://mrbird.cc/Java-非对称加密算法.html
 http://mrbird.cc/Java-对称加密算法.html
@@ -295,6 +298,3 @@ http://mrbird.cc/svn总结.html
 http://mrbird.cc/maven坐标与依赖.html
 http://mrbird.cc/使用m2eclipse创建maven项目.html
 http://mrbird.cc/环境变量设置.html
-http://mrbird.cc/Spring-事务管理.html
-http://mrbird.cc/各进制数的转换.html
-http://mrbird.cc/Spring-SimpleJdbcTemplate.html
