@@ -2,6 +2,7 @@ http://mrbird.cc/book.html
 http://mrbird.cc/深入理解Spring事件发布与监听.html
 http://mrbird.cc/Spring声明式事务原理.html
 http://mrbird.cc/深入理解Spring-AOP原理.html
+http://mrbird.cc/深入理解BeanFactoryPostProcessor-BeanDefinitionRegistryPostProcessor.html
 http://mrbird.cc/深入理解Spring-BeanPostProcessor-InstantiationAwareBeanPostProcessor.html
 http://mrbird.cc/Spring自带工具类使用学习.html
 http://mrbird.cc/Java-数字签名算法.html
@@ -297,4 +298,3 @@ http://mrbird.cc/JSON小记.html
 http://mrbird.cc/maven生命周期和插件.html
 http://mrbird.cc/maven-repository.html
 http://mrbird.cc/svn总结.html
-http://mrbird.cc/maven坐标与依赖.html
