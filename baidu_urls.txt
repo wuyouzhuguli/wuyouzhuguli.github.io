@@ -40,6 +40,9 @@ http://mrbird.cc/Spring-Batch读取数据.html
 http://mrbird.cc/Spring-Batch入门.html
 http://mrbird.cc/Spring-Boot整合WebSocket.html
 http://mrbird.cc/自定义Spring-Boot-Starter.html
+http://mrbird.cc/FEBS-Cloud项目开发教程.html
+http://mrbird.cc/FEBS-Cloud项目使用教程.html
+http://mrbird.cc/FEBS-Cloud项目导入教程.html
 http://mrbird.cc/FEBS-Cloud常见问题汇总.html
 http://mrbird.cc/IDEA-Docker-Plugin.html
 http://mrbird.cc/Kubernetes-Service-Discovery-Summary.html
@@ -295,6 +298,3 @@ http://mrbird.cc/JS-中的LHS和RHS.html
 http://mrbird.cc/Ajax.html
 http://mrbird.cc/BOM-location.html
 http://mrbird.cc/JavaScript-Function类型.html
-http://mrbird.cc/JavaScript-CreateObject.html
-http://mrbird.cc/JavaScript-Array类型.html
-http://mrbird.cc/JSP-标签文件.html
